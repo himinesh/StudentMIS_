@@ -14,5 +14,7 @@ NOTE: Stored Procedures are in root dir
 
 Contact:
 --------
-subashcic@gmail.com
+shttps://github.com/himinesh/StudentMIS_MVC5_CustomIdentityud:q
+:q
+ubashcic@gmail.com
 hieminesh@gmail.com
